@@ -1,10 +1,10 @@
-# Key Information Extraction with LayoutML
+# Key Information Extraction with LayoutLM
 
-This repository contains source files for a project that focuses on key information extraction from forms/documents using LayoutML models. 
+This repository contains source files for a project that focuses on key information extraction from forms/documents using LayoutLM models. 
 
 ## Overview
 
-Extracting key information from various forms and documents is a common challenge. This project aims to automate this process using various models such as LayoutML.
+Extracting key information from various forms and documents is a common challenge. This project aims to automate this process using various models such as LayoutLM.
 
 ## Features
 
