@@ -2,3 +2,7 @@ pero_eu_cz_print_newspapers_2022-09-26
 pero_eu_cz_print_newspapers_2022-09-26.zip
 .venv/
 data/
+YOLOv8/*
+yolov8n.pt
+*.pt
+*.onnx
